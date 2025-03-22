@@ -103,10 +103,6 @@ os-scheduler-visualizer/
    - Select "Open with Live Server"
    - Browser will open automatically
 
-### Accessing the Deployed Version
-1. Visit [https://os-scheduling-visualizer.herokuapp.com](https://os-scheduling-visualizer.herokuapp.com)
-2. No installation required
-3. Works on all modern browsers
 
 ### Usage Instructions
 1. Select a scheduling algorithm from the dropdown
@@ -119,6 +115,3 @@ os-scheduler-visualizer/
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. You can also open issues for bugs or feature suggestions.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
